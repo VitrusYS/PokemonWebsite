@@ -20,6 +20,7 @@ interface SearchSuggestion {
 const pageSuggestionsData: Omit<SearchSuggestion, 'id' | 'pokemonApiName' | 'displaySuffix'>[] = [
     { type: 'page', name: 'Pokémon Guesser', path: '/guesser' },
     { type: 'page', name: 'Pokédex List', path: '/pokedex' },
+    { type: 'page', name: 'Blaze Black 2 Redux Pokédex', path: '/bb2r/pokedex' },
 ];
 
 const SiteHeader = () => {
