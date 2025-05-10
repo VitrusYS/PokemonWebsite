@@ -5,13 +5,6 @@
   --foreground: #171717;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
 @media (prefers-color-scheme: dark) {
   :root {
     --background: #0a0a0a;
@@ -23,4 +16,28 @@ body {
   background: var(--background);
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
+}
+
+@layer utilities {
+  @keyframes fadeInDriftOut {
+    0% {
+      opacity: 0;
+      transform: scale(0.8) translate(0, 0) rotate(calc(var(--rotate-deg) * -0.5));
+    }
+    15% { /* Fade In */
+      opacity: 1; /* Fully visible for pixel art */
+      transform: scale(1) translate(calc(var(--move-x) * 0.2), calc(var(--move-y) * 0.2)) rotate(0deg);
+    }
+    85% { /* Drift and Stay Visible */
+      opacity: 1;
+      transform: scale(1) translate(var(--move-x), var(--move-y)) rotate(var(--rotate-deg));
+    }
+    100% { /* Fade Out */
+      opacity: 0;
+      transform: scale(0.8) translate(calc(var(--move-x) * 1.2), calc(var(--move-y) * 1.2)) rotate(calc(var(--rotate-deg) * 0.5));
+    }
+  }
+  .animate-fadeInDriftOut { /* Stelle sicher, dass die Klasse im TSX verwendet wird */
+    animation: fadeInDriftOut ease-in-out forwards;
+  }
 }
