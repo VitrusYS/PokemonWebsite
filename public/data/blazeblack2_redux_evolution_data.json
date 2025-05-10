@@ -1,0 +1,591 @@
+[
+  {
+    "pokemon_id": "021",
+    "pokemon_name": "Spearow",
+    "new_methods": [
+      "Now evolves into Fearow at Level 21."
+    ]
+  },
+  {
+    "pokemon_id": "023",
+    "pokemon_name": "Ekans",
+    "new_methods": [
+      "Now evolves into Arbok at Level 21."
+    ]
+  },
+  {
+    "pokemon_id": "048",
+    "pokemon_name": "Venonat",
+    "new_methods": [
+      "Now evolves into Venomoth at Level 28."
+    ]
+  },
+  {
+    "pokemon_id": "054",
+    "pokemon_name": "Psyduck",
+    "new_methods": [
+      "Now evolves into Golduck at Level 25."
+    ]
+  },
+  {
+    "pokemon_id": "061",
+    "pokemon_name": "Poliwhirl",
+    "new_methods": [
+      "Now evolves into Politoed via the use of a King's Rock."
+    ]
+  },
+  {
+    "pokemon_id": "064",
+    "pokemon_name": "Kadabra",
+    "new_methods": [
+      "Now evolves into Alakazam via the use of a Link Cable."
+    ]
+  },
+  {
+    "pokemon_id": "067",
+    "pokemon_name": "Machoke",
+    "new_methods": [
+      "Now evolves into Machamp via the use of a Link Cable."
+    ]
+  },
+  {
+    "pokemon_id": "075",
+    "pokemon_name": "Graveler",
+    "new_methods": [
+      "Now evolves into Golem via the use of a Link Cable."
+    ]
+  },
+  {
+    "pokemon_id": "077",
+    "pokemon_name": "Ponyta",
+    "new_methods": [
+      "Now evolves into Rapidash at Level 35."
+    ]
+  },
+  {
+    "pokemon_id": "079",
+    "pokemon_name": "Slowpoke",
+    "new_methods": [
+      "Now evolves into Slowbro at Level 33.",
+      "Now evolves into Slowking via the use of a King's Rock."
+    ]
+  },
+  {
+    "pokemon_id": "088",
+    "pokemon_name": "Grimer",
+    "new_methods": [
+      "Now evolves into Muk at Level 35."
+    ]
+  },
+  {
+    "pokemon_id": "093",
+    "pokemon_name": "Haunter",
+    "new_methods": [
+      "Now evolves into Gengar via the use of a Link Cable."
+    ]
+  },
+  {
+    "pokemon_id": "095",
+    "pokemon_name": "Onix",
+    "new_methods": [
+      "Now evolves into Steelix via the use of a Metal Coat."
+    ]
+  },
+  {
+    "pokemon_id": "104",
+    "pokemon_name": "Cubone",
+    "new_methods": [
+      "Now evolves into Marowak at Level 27."
+    ]
+  },
+  {
+    "pokemon_id": "111",
+    "pokemon_name": "Rhyhorn",
+    "new_methods": [
+      "Now evolves into Rhydon at Level 36."
+    ]
+  },
+  {
+    "pokemon_id": "112",
+    "pokemon_name": "Rhydon",
+    "new_methods": [
+      "Now evolves into Rhyperior via the use of a Protector."
+    ]
+  },
+  {
+    "pokemon_id": "117",
+    "pokemon_name": "Seadra",
+    "new_methods": [
+      "Now evolves into Kingdra via the use of a Dragon Scale."
+    ]
+  },
+  {
+    "pokemon_id": "123",
+    "pokemon_name": "Scyther",
+    "new_methods": [
+      "Now evolves into Scizor via the use of a Metal Coat."
+    ]
+  },
+  {
+    "pokemon_id": "125",
+    "pokemon_name": "Electabuzz",
+    "new_methods": [
+      "Now evolves into Electivire via the use of a Electirizer."
+    ]
+  },
+  {
+    "pokemon_id": "126",
+    "pokemon_name": "Magmar",
+    "new_methods": [
+      "Now evolves into Magmortar via the use of a Magmarizer."
+    ]
+  },
+  {
+    "pokemon_id": "133",
+    "pokemon_name": "Eevee",
+    "new_methods": [
+      "Now evolves into Espeon via the use of a Sun Stone.",
+      "Now evolves into Umbreon via the use of a Moon Stone.",
+      "Now evolves into Leafeon via the use of a Leaf Stone.",
+      "Now evolves into Glaceon via the use of an Ice Stone."
+    ]
+  },
+  {
+    "pokemon_id": "137",
+    "pokemon_name": "Porygon",
+    "new_methods": [
+      "Now evolves into Porygon2 via the use of an Up-Grade."
+    ]
+  },
+  {
+    "pokemon_id": "138",
+    "pokemon_name": "Omanyte",
+    "new_methods": [
+      "Now evolves into Omastar at Level 30."
+    ]
+  },
+  {
+    "pokemon_id": "140",
+    "pokemon_name": "Kabuto",
+    "new_methods": [
+      "Now evolves into Kabutops at Level 30."
+    ]
+  },
+  {
+    "pokemon_id": "183",
+    "pokemon_name": "Marill",
+    "new_methods": [
+      "Now evolves into Azumarill at Level 21."
+    ]
+  },
+  {
+    "pokemon_id": "207",
+    "pokemon_name": "Gligar",
+    "new_methods": [
+      "Now evolves into Gliscor via the use of an Razor Fang."
+    ]
+  },
+  {
+    "pokemon_id": "215",
+    "pokemon_name": "Sneasel",
+    "new_methods": [
+      "Now evolves into Weavile via the use of an Razor Claw."
+    ]
+  },
+  {
+    "pokemon_id": "218",
+    "pokemon_name": "Slugma",
+    "new_methods": [
+      "Now evolves into Magcargo at Level 30."
+    ]
+  },
+  {
+    "pokemon_id": "220",
+    "pokemon_name": "Swinub",
+    "new_methods": [
+      "Now evolves into Poliswine at Level 29."
+    ]
+  },
+  {
+    "pokemon_id": "233",
+    "pokemon_name": "Porygon2",
+    "new_methods": [
+      "Now evolves into Porygon-Z via the use of a Dubious Disc."
+    ]
+  },
+  {
+    "pokemon_id": "239",
+    "pokemon_name": "Elekid",
+    "new_methods": [
+      "Now evolves into Electabuzz at Level 29."
+    ]
+  },
+  {
+    "pokemon_id": "240",
+    "pokemon_name": "Magby",
+    "new_methods": [
+      "Now evolves into Magmar at Level 29."
+    ]
+  },
+  {
+    "pokemon_id": "300",
+    "pokemon_name": "Skitty",
+    "new_methods": [
+      "Now evolves into Delcatty at Level 25."
+    ]
+  },
+  {
+    "pokemon_id": "304",
+    "pokemon_name": "Aron",
+    "new_methods": [
+      "Now evolves into Lairon at Level 24."
+    ]
+  },
+  {
+    "pokemon_id": "305",
+    "pokemon_name": "Lairon",
+    "new_methods": [
+      "Now evolves into Aggron at Level 40."
+    ]
+  },
+  {
+    "pokemon_id": "307",
+    "pokemon_name": "Meditite",
+    "new_methods": [
+      "Now evolves into Medicham at Level 34."
+    ]
+  },
+  {
+    "pokemon_id": "328",
+    "pokemon_name": "Trapinch",
+    "new_methods": [
+      "Now evolves into Vibrava at Level 30."
+    ]
+  },
+  {
+    "pokemon_id": "329",
+    "pokemon_name": "Vibrava",
+    "new_methods": [
+      "Now evolves into Flygon at Level 55."
+    ]
+  },
+  {
+    "pokemon_id": "345",
+    "pokemon_name": "Lileep",
+    "new_methods": [
+      "Now evolves into Cradily at Level 30."
+    ]
+  },
+  {
+    "pokemon_id": "347",
+    "pokemon_name": "Anorith",
+    "new_methods": [
+      "Now evolves into Armaldo at Level 30."
+    ]
+  },
+  {
+    "pokemon_id": "349",
+    "pokemon_name": "Feebas",
+    "new_methods": [
+      "Now evolves into Milotic via the use of a Prism Scale."
+    ]
+  },
+  {
+    "pokemon_id": "353",
+    "pokemon_name": "Shuppet",
+    "new_methods": [
+      "Now evolves into Banette at Level 32."
+    ]
+  },
+  {
+    "pokemon_id": "355",
+    "pokemon_name": "Duskull",
+    "new_methods": [
+      "Now evolves into Dusclops at Level 32."
+    ]
+  },
+  {
+    "pokemon_id": "356",
+    "pokemon_name": "Dusclops",
+    "new_methods": [
+      "Now evolves into Dusknoir via the use of a Reaper's Cloth."
+    ]
+  },
+  {
+    "pokemon_id": "361",
+    "pokemon_name": "Snorunt",
+    "new_methods": [
+      "Now evolves into Glalie via the use of an Ice Stone."
+    ]
+  },
+  {
+    "pokemon_id": "363",
+    "pokemon_name": "Spheal",
+    "new_methods": [
+      "Now evolves into Sealeo at Level 21."
+    ]
+  },
+  {
+    "pokemon_id": "364",
+    "pokemon_name": "Sealeo",
+    "new_methods": [
+      "Now evolves into Walrein at Level 40."
+    ]
+  },
+  {
+    "pokemon_id": "366",
+    "pokemon_name": "Clamperl",
+    "new_methods": [
+      "Now evolves into Huntail via the use of a Deep Sea Tooth.",
+      "Now evolves into Gorebyss via the use of a Deep Sea Scale."
+    ]
+  },
+  {
+    "pokemon_id": "406",
+    "pokemon_name": "Budew",
+    "new_methods": [
+      "Now evolves into Roselia by leveling up while at 220+ friendship at any time of day."
+    ]
+  },
+  {
+    "pokemon_id": "412",
+    "pokemon_name": "Burmy",
+    "new_methods": [
+      "Now evolves into Wormadam at Level 25 if Burmy is female.",
+      "Now evolves into Mothim at Level 25 if Burmy is male."
+    ]
+  },
+  {
+    "pokemon_id": "431",
+    "pokemon_name": "Glameow",
+    "new_methods": [
+      "Now evolves into Purugly at Level 27."
+    ]
+  },
+  {
+    "pokemon_id": "433",
+    "pokemon_name": "Chingling",
+    "new_methods": [
+      "Now evolves into Chimecho by leveling up while knowing the move Heal Bell."
+    ]
+  },
+  {
+    "pokemon_id": "434",
+    "pokemon_name": "Stunky",
+    "new_methods": [
+      "Now evolves into Skuntank at Level 27."
+    ]
+  },
+  {
+    "pokemon_id": "438",
+    "pokemon_name": "Bonsly",
+    "new_methods": [
+      "Now evolves into Sudowoodo at Level 25."
+    ]
+  },
+  {
+    "pokemon_id": "439",
+    "pokemon_name": "Mime Jr.",
+    "new_methods": [
+      "Now evolves into Mr. Mime at Level 25."
+    ]
+  },
+  {
+    "pokemon_id": "440",
+    "pokemon_name": "Happiny",
+    "new_methods": [
+      "Now evolves into Chansey at Level 30."
+    ]
+  },
+  {
+    "pokemon_id": "447",
+    "pokemon_name": "Riolu",
+    "new_methods": [
+      "Now evolves into Lucario by leveling up while knowing the move Aura Sphere."
+    ]
+  },
+  {
+    "pokemon_id": "451",
+    "pokemon_name": "Skorupi",
+    "new_methods": [
+      "Now evolves into Drapion at Level 39."
+    ]
+  },
+  {
+    "pokemon_id": "453",
+    "pokemon_name": "Croagunk",
+    "new_methods": [
+      "Now evolves into Toxicroak at Level 33."
+    ]
+  },
+  {
+    "pokemon_id": "458",
+    "pokemon_name": "Mantyke",
+    "new_methods": [
+      "Now evolves into Mantine at Level 27 in addition to its normal evolution method."
+    ]
+  },
+  {
+    "pokemon_id": "525",
+    "pokemon_name": "Boldore",
+    "new_methods": [
+      "Now evolves into Gigalith via the use of a Link Cable."
+    ]
+  },
+  {
+    "pokemon_id": "527",
+    "pokemon_name": "Woobat",
+    "new_methods": [
+      "Now evolves into Swoobat at Level 25."
+    ]
+  },
+  {
+    "pokemon_id": "533",
+    "pokemon_name": "Gurdurr",
+    "new_methods": [
+      "Now evolves into Conkeldurr via the use of a Link Cable."
+    ]
+  },
+  {
+    "pokemon_id": "540",
+    "pokemon_name": "Sewaddle",
+    "new_methods": [
+      "Now evolves into Swadloon at Level 21."
+    ]
+  },
+  {
+    "pokemon_id": "543",
+    "pokemon_name": "Venipede",
+    "new_methods": [
+      "Now evolves into Whirlipede at Level 20."
+    ]
+  },
+  {
+    "pokemon_id": "551",
+    "pokemon_name": "Sandile",
+    "new_methods": [
+      "Now evolves into Krokorok at Level 27."
+    ]
+  },
+  {
+    "pokemon_id": "559",
+    "pokemon_name": "Scraggy",
+    "new_methods": [
+      "Now evolves into Scrafty at Level 30."
+    ]
+  },
+  {
+    "pokemon_id": "574",
+    "pokemon_name": "Gothita",
+    "new_methods": [
+      "Now evolves into Gothorita at Level 30."
+    ]
+  },
+  {
+    "pokemon_id": "577",
+    "pokemon_name": "Solosis",
+    "new_methods": [
+      "Now evolves into Duosion at Level 30."
+    ]
+  },
+  {
+    "pokemon_id": "582",
+    "pokemon_name": "Vanillite",
+    "new_methods": [
+      "Now evolves into Vanillish at Level 29."
+    ]
+  },
+  {
+    "pokemon_id": "588",
+    "pokemon_name": "Karrablast",
+    "new_methods": [
+      "Now evolves into Escavalier via the use of a Metal Coat.",
+      "Now evolves into Escavalier by leveling up when a Shelmet is in the party."
+    ]
+  },
+  {
+    "pokemon_id": "595",
+    "pokemon_name": "Joltik",
+    "new_methods": [
+      "Now evolves into Galvantula at Level 39."
+    ]
+  },
+  {
+    "pokemon_id": "599",
+    "pokemon_name": "Klink",
+    "new_methods": [
+      "Now evolves into Klang at Level 30."
+    ]
+  },
+  {
+    "pokemon_id": "602",
+    "pokemon_name": "Tynamo",
+    "new_methods": [
+      "Now evolves into Eelektrik at Level 30."
+    ]
+  },
+  {
+    "pokemon_id": "605",
+    "pokemon_name": "Elgyem",
+    "new_methods": [
+      "Now evolves into Beheeyem at Level 37."
+    ]
+  },
+  {
+    "pokemon_id": "607",
+    "pokemon_name": "Litwick",
+    "new_methods": [
+      "Now evolves into Lampent at Level 27."
+    ]
+  },
+  {
+    "pokemon_id": "616",
+    "pokemon_name": "Shelmet",
+    "new_methods": [
+      "Now evolves into Accelgor via the use of a Reaper Cloth.",
+      "Now evolves into Accelgor by leveling up when a Karrablast is in the party."
+    ]
+  },
+  {
+    "pokemon_id": "622",
+    "pokemon_name": "Golett",
+    "new_methods": [
+      "Now evolves into Golurk at Level 40."
+    ]
+  },
+  {
+    "pokemon_id": "624",
+    "pokemon_name": "Pawniard",
+    "new_methods": [
+      "Now evolves into Bisharp at Level 40."
+    ]
+  },
+  {
+    "pokemon_id": "627",
+    "pokemon_name": "Rufflet",
+    "new_methods": [
+      "Now evolves into Braviary at Level 40."
+    ]
+  },
+  {
+    "pokemon_id": "629",
+    "pokemon_name": "Vullaby",
+    "new_methods": [
+      "Now evolves into Mandibuzz at Level 40."
+    ]
+  },
+  {
+    "pokemon_id": "633",
+    "pokemon_name": "Deino",
+    "new_methods": [
+      "Now evolves into Zweilous at Level 38."
+    ]
+  },
+  {
+    "pokemon_id": "634",
+    "pokemon_name": "Zweilous",
+    "new_methods": [
+      "Now evolves into Hydreigon at Level 58."
+    ]
+  }
+]
